@@ -1,4 +1,4 @@
 # 7dials
 A collection of my designs for 7dials.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![7dials logo](https://github.com/mcop/7dials/blob/main/7dials-2021-logo-Blk-Alpha.png)
