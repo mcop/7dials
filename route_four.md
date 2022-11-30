@@ -51,10 +51,10 @@ The Up/Down, Reset and Step Buttons can be used alongside inputs. Each of the bu
 The electronic switches used in this module have a low on resistance (the datasheet states max 35Ω), meaning they have only a very slight effect when switching pitch control voltages. This will of course vary with the input impedance of any oscillator and the output impedance of any control voltage source.
 
 Build Document
-Here’s a link to build information for the DIY kit.
+[Here’s a link to build information for the DIY kit.](https://docs.google.com/spreadsheets/d/1wg_cqzuiyMHKkDE1c4eYfdx2wnnBMyvDsO1Q1nh9thw/edit?usp=sharing)
 
-Route Four Control PCB Schematic
+[Route Four Control PCB Schematic](https://drive.google.com/file/d/1SEDUfgUpgz0OHHfbPysNAR-r1CHpate0/view?usp=sharing)
 
-.[Route Four Circuit PCB Schematic](https://drive.google.com/file/d/1UQmjEb9ceqT8M1Nsj4mG_63FK3dNioVL/view?usp=sharing)
+[Route Four Circuit PCB Schematic](https://drive.google.com/file/d/1UQmjEb9ceqT8M1Nsj4mG_63FK3dNioVL/view?usp=sharing)
 
-Route Four Power PCB Schematic
+[Route Four Power PCB Schematic](https://drive.google.com/file/d/1siXZ0h-GG-4yiGUy0K7xZ9Q8PY5frM8F/view?usp=sharing)
