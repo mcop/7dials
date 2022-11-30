@@ -55,6 +55,6 @@ Here’s a link to build information for the DIY kit.
 
 Route Four Control PCB Schematic
 
-Route Four Circuit PCB Schematic
+.[Route Four Circuit PCB Schematic](https://drive.google.com/file/d/1UQmjEb9ceqT8M1Nsj4mG_63FK3dNioVL/view?usp=sharing)
 
 Route Four Power PCB Schematic
