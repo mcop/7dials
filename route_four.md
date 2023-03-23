@@ -69,11 +69,6 @@ This mode enables each stage to be selected via it’s 2 bit binary address.
   </tr>
   </table>
 
-Up/Down Input or Up/Down Button	Clock Input or Step Button	Active Stage
-Input Low or Button Unpressed	Input Low or Button Unpressed	00
-Input Low or Button Unpressed	Input High or Button Pressed	01
-Input High or Button Pressed	Input Low or Button Unpressed	10
-Input High or Button Pressed	Input High or Button Pressed	11
 At the bottom of the panel we have 3 buttons for manual control of the switch. Every effort has been made in the design of this module to give a clean switching action when the buttons are used.
 
 The Up/Down, Reset and Step Buttons can be used alongside inputs. Each of the buttons is linked with it’s associated input with a logical OR function. This means for instance, if the Up/Down input is being held high pressing the Up/Down button will have no effect as that control is already high. 
