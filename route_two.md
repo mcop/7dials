@@ -1,10 +1,12 @@
-Route Two Dual Switch
+# Route Two Dual Switch
 
-Introduction
+### Introduction
+
 The Route Two is a dual switch module with each channel made up of two switches normalised as a Single Pole Double Throw (SPDT) switch. The switches are bi-directional meaning they can be used to switch signals in either direction.
 
 
-The Panel
+### The Panel
+
 The panel for this module is double sided so can be fitted either way up. For the purpose of this manual we will assume the panel is fitted with the controls at the bottom and switches at the top. If you’ve fitted the panel the other way round please rotate this manual 180 degrees to read!!
 
 The two channels are identical so for most of this manual we’ll just talk about a single channel. Further down the page are a number of videos to illustrate various aspects of the switches operations.
@@ -24,7 +26,8 @@ Moving further down the panel we come to the mode switch. There are two modes �
 
 The electronic switches used in this module have a low on resistance (the datasheet states max 35Ω), meaning they have only a very slight effect when switching pitch control voltages. This will of course vary with the input impedance of any oscillator and the output impedance of any control voltage source.
 
-Normalising one channel to the other
+### Normalising one channel to the other
+
 There are two jumpers on the board that enable you to normalise one channel to the other – this allows one channel to control the other until the normalisation is broken.
 
 As the module can be used either way up with the reversible channel, it’s up to you which channel is normalised to which – or if you even want any normalisation at all.
@@ -41,7 +44,8 @@ This next video illustrates how the switch can be used for dividing down.
 This final video demonstrates how the normalisation between the two switches in each channel works.
 
 
-Build Document
-Here’s a link to build information for the DIY kit.
+### Build Document
 
-Route Two Schematic
+[Here’s a link to build information for the DIY kit.](https://docs.google.com/spreadsheets/d/1wg_cqzuiyMHKkDE1c4eYfdx2wnnBMyvDsO1Q1nh9thw/edit?usp=sharing)
+
+[Route Two Schematic](https://drive.google.com/file/d/1OwmmElXsMm2NfkOyAtBcOy8VB6d9OHcL/view?usp=sharing)
