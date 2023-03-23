@@ -19,6 +19,9 @@ The arrows on the right hand switch jacks indicate that this column is normalise
 
 Here’s a video which hopefully makes things a bit clearer!
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0Fd_a8_5U2g" target="_blank">
+ <img src="http://img.youtube.com/vi/0Fd_a8_5U2g/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
+</a>
 
 ### Controls
 Below the switches we have the 3 control inputs. Up/Down selects which direction the switch is clocked. Reset sets the switch back to stage 00 and the Clock input moves the switch to the next stage.
