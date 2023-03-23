@@ -17,7 +17,7 @@ When the module is in Address Mode the filled circles indicate which of the up/d
 
 The arrows on the right hand switch jacks indicate that this column is normalised together. This normalisation is in a loop so placing a patch cable in any of the right hand jacks connects you to all of them until another jack is inserted.
 
-Here’s a video which hopefully makes things a bit clearer!
+Here’s a link video which hopefully makes things a bit clearer!
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=0Fd_a8_5U2g" target="_blank">
  <img src="http://img.youtube.com/vi/0Fd_a8_5U2g/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
