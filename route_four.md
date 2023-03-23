@@ -41,6 +41,17 @@ Address Mode
 
 This mode enables each stage to be selected via it’s 2 bit binary address.
 
+<table>
+  <tr>
+    <th>Up/Down Input or Up/Down Button</th>
+    <th>Clock Input or Step Button</th>
+    <th>Active Stage</th>
+  </tr>
+Input Low or Button Unpressed 	Input Low or Button Unpressed 	00
+Input Low or Button Unpressed 	Input High or Button Pressed 	01
+Input High or Button Pressed 	Input Low or Button Unpressed 	10
+Input High or Button Pressed 	Input High or Button Pressed 	11
+
 Up/Down Input or Up/Down Button	Clock Input or Step Button	Active Stage
 Input Low or Button Unpressed	Input Low or Button Unpressed	00
 Input Low or Button Unpressed	Input High or Button Pressed	01
