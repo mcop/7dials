@@ -19,7 +19,8 @@ The connectors below the switches are for Gate Output and Clock Input.
 
 The Gate Output differs depending on which mode the channel is in. In momentary mode it’s high when the Clock Input is high or the Pushbutton is pressed. In Latching mode it goes to a divide by two mode – going high on the first clock signal or button press and low on the next.
 
-https://youtu.be/jZAFRP0rOkk
+Here's a link to a ideo demonstrating the different Gate Output modes.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jZAFRP0rOkk" target="_blank">
  <img src="http://img.youtube.com/vi/jZAFRP0rOkk/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
 </a>
