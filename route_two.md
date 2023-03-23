@@ -19,6 +19,10 @@ The connectors below the switches are for Gate Output and Clock Input.
 
 The Gate Output differs depending on which mode the channel is in. In momentary mode it’s high when the Clock Input is high or the Pushbutton is pressed. In Latching mode it goes to a divide by two mode – going high on the first clock signal or button press and low on the next.
 
+https://youtu.be/jZAFRP0rOkk
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jZAFRP0rOkk" target="_blank">
+ <img src="http://img.youtube.com/vi/jZAFRP0rOkk/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
+</a>
 
 The Clock Input is comparator based meaning it will operate with any signal that crosses the switching threshold. This means that as well as gates and triggers, bipolar signals from LFO’s and oscillators along with signals such as envelopes can also be used as long as they have a high enough amplitude. The threshold voltage is approximately 1.5 volts and the maximum frequency the module will switch at is approximately 3kHz.
 
@@ -35,20 +39,25 @@ As the module can be used either way up with the reversible channel, it’s up t
 The image below shows where one of the jumpers is fitted. To change or remove the jumper the back board will need to be removed by undoing the two screws and pulling the back board off.
 
 
-The video below shows switching operation with the different modes. One channel is normalised to the other here to demonstrate how the normalisation works.
+The video linked below shows switching operation with the different modes. One channel is normalised to the other here to demonstrate how the normalisation works.
 
-https://youtu.be/pS0MA9md-go
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pS0MA9md-go" target="_blank">
- <img src="http://img.youtube.com/vi/pS0MA9md-go/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+https://youtu.be/HWvGNpqEsCY
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HWvGNpqEsCY" target="_blank">
+ <img src="http://img.youtube.com/vi/HWvGNpqEsCY/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
 </a>
 
 
-This next video illustrates how the switch can be used for dividing down.
+This next linked video illustrates how the switch can be used for dividing down.
+https://youtu.be/etn6ifdC-jE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=etn6ifdC-jE" target="_blank">
+ <img src="http://img.youtube.com/vi/etn6ifdC-jE/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
+</a>
 
+This final linked video demonstrates how the normalisation between the two switches in each channel works.
 
-This final video demonstrates how the normalisation between the two switches in each channel works.
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pS0MA9md-go" target="_blank">
+ <img src="http://img.youtube.com/vi/pS0MA9md-go/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
+</a>
 
 ### Build Document
 
