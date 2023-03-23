@@ -29,7 +29,7 @@ The threshold voltage is approximately 1.5volts and the maximum frequency that w
 
 Moving further down the panel we come to the two mode switches.
 
-Momentary/Latching switch.
+#### Momentary/Latching switch.
 
 In Count mode this switch will only effect the Up/Down input or button. In Address mode the switch effects the Up/Down and Clock inputs along with the Up/Down and Step buttons.
 
@@ -37,7 +37,7 @@ When the switch is set to momentary the Up/Down and Clock inputs will be high as
 
 When the switch is set to latching each time a high signal is put into the Up/Down and Clock inputs or either the Up/Down or Step Buttons are pressed that stage toggles between high and low.
 
-Address Mode
+#### Address Mode
 
 This mode enables each stage to be selected via it’s 2 bit binary address.
 
