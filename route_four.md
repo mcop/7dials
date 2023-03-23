@@ -1,13 +1,14 @@
-Route Four Sequential Switch
+# Route Four Sequential Switch
 
-Introduction
+### Introduction
 
 The Route Four is a sequential switch with control over direction as well as reset. Alternatively the active step can be selected via binary addressing.
 
 It’s made up of four bi-directional switches which are normalised on one side, meaning the switch can be used in a number of ways including 4 to 1, 1 to 4 and 4 individual switches.
+
 ![RouteFour01](https://user-images.githubusercontent.com/14010890/227321097-7448b3f8-9711-4ef5-9bbc-f59fdb2e2f44.png)
 
-The Panel
+### The Panel
 The panel for this module is double sided so can be fitted either way up. For the purpose of this manual we will assume the panel is fitted with the controls at the bottom and switches at the top. If you’ve fitted the panel the other way round please rotate this manual 180 degrees to read!!
 
 At the top of the panel we have the four switches. Each switch has an LED between the jacks to indicate which stage is active. Below the LED is a binary representation of the switches address.
@@ -19,7 +20,7 @@ The arrows on the right hand switch jacks indicate that this column is normalise
 Here’s a video which hopefully makes things a bit clearer!
 
 
-Controls
+### Controls
 Below the switches we have the 3 control inputs. Up/Down selects which direction the switch is clocked. Reset sets the switch back to stage 00 and the Clock input moves the switch to the next stage.
 
 All of these inputs are comparator based meaning they will operate with any signal that crosses the switching threshold – meaning that as well as gates and triggers, bipolar signals from LFO’s and oscillators along with signals such as envelopes can also be used as long as they have a high enough amplitude.
