@@ -4,6 +4,7 @@
 
 The Route Two is a dual switch module with each channel made up of two switches normalised as a Single Pole Double Throw (SPDT) switch. The switches are bi-directional meaning they can be used to switch signals in either direction.
 
+![RouteTwo01](https://user-images.githubusercontent.com/14010890/227320487-4b013cd4-e342-4812-9528-80bb6c9969d2.png)
 
 ### The Panel
 
