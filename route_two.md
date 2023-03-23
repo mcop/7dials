@@ -37,6 +37,12 @@ The image below shows where one of the jumpers is fitted. To change or remove th
 
 The video below shows switching operation with the different modes. One channel is normalised to the other here to demonstrate how the normalisation works.
 
+https://youtu.be/pS0MA9md-go
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pS0MA9md-go" target="_blank">
+ <img src="http://img.youtube.com/vi/pS0MA9md-go/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
 
 This next video illustrates how the switch can be used for dividing down.
 
