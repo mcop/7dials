@@ -5,6 +5,7 @@ Introduction
 The Route Four is a sequential switch with control over direction as well as reset. Alternatively the active step can be selected via binary addressing.
 
 It’s made up of four bi-directional switches which are normalised on one side, meaning the switch can be used in a number of ways including 4 to 1, 1 to 4 and 4 individual switches.
+![RouteFour01](https://user-images.githubusercontent.com/14010890/227321097-7448b3f8-9711-4ef5-9bbc-f59fdb2e2f44.png)
 
 The Panel
 The panel for this module is double sided so can be fitted either way up. For the purpose of this manual we will assume the panel is fitted with the controls at the bottom and switches at the top. If you’ve fitted the panel the other way round please rotate this manual 180 degrees to read!!
