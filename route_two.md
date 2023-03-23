@@ -19,7 +19,7 @@ The connectors below the switches are for Gate Output and Clock Input.
 
 The Gate Output differs depending on which mode the channel is in. In momentary mode it’s high when the Clock Input is high or the Pushbutton is pressed. In Latching mode it goes to a divide by two mode – going high on the first clock signal or button press and low on the next.
 
-Here's a link to a ideo demonstrating the different Gate Output modes.
+Here's a link to a video demonstrating the different Gate Output modes.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jZAFRP0rOkk" target="_blank">
  <img src="http://img.youtube.com/vi/jZAFRP0rOkk/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
@@ -42,14 +42,14 @@ The image below shows where one of the jumpers is fitted. To change or remove th
 
 The video linked below shows switching operation with the different modes. One channel is normalised to the other here to demonstrate how the normalisation works.
 
-https://youtu.be/HWvGNpqEsCY
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HWvGNpqEsCY" target="_blank">
  <img src="http://img.youtube.com/vi/HWvGNpqEsCY/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
 </a>
 
 
 This next linked video illustrates how the switch can be used for dividing down.
-https://youtu.be/etn6ifdC-jE
+
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=etn6ifdC-jE" target="_blank">
  <img src="http://img.youtube.com/vi/etn6ifdC-jE/mqdefault.jpg" alt="Watch the video" width="640" height="360" border="10" />
 </a>
