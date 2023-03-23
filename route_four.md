@@ -47,10 +47,27 @@ This mode enables each stage to be selected via it’s 2 bit binary address.
     <th>Clock Input or Step Button</th>
     <th>Active Stage</th>
   </tr>
-Input Low or Button Unpressed 	Input Low or Button Unpressed 	00
-Input Low or Button Unpressed 	Input High or Button Pressed 	01
-Input High or Button Pressed 	Input Low or Button Unpressed 	10
-Input High or Button Pressed 	Input High or Button Pressed 	11
+  <tr>
+    <th>Input Low or Button Unpressed</th>
+    <th>Input Low or Button Unpressed</th>
+    <th>00</th>
+  </tr>
+  <tr>
+    <th>Input Low or Button Unpressed</th>
+    <th>Input High or Button Pressed</th>
+    <th>01</th>
+  </tr>
+  <tr>
+    <th>Input High or Button Pressed</th>
+    <th>Input Low or Button Unpressed</th>
+    <th>10</th>
+  </tr>
+ <tr>
+    <th>Input High or Button Pressed</th>
+    <th>Input High or Button Pressed</th>
+    <th>11</th>
+  </tr>
+  </table>
 
 Up/Down Input or Up/Down Button	Clock Input or Step Button	Active Stage
 Input Low or Button Unpressed	Input Low or Button Unpressed	00
